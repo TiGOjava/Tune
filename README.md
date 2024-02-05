@@ -15,7 +15,7 @@ For building and running the application you need:
 
 ## Running the application locally
 
-To run a Spring Boot application on your local machine you need to execute the `main` method in the `com.ToDoList.Application` class from your IDE.
+To run a Spring Boot application on your local machine you need to execute the `main` method in the `com.MusicApp.Application` class from your IDE.
 ```shell
 com.ToDoList.Application
 ```
